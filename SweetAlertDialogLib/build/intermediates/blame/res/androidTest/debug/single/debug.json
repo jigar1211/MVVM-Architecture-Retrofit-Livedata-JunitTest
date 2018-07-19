@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_warning_circle.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\warning_circle.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_ronded_button_red_gradient.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ronded_button_red_gradient.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_dialog_background.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-sw800dp-port-v13_alert_dialog.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\layout-sw800dp-port-v13\\alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_blue_button_background.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\blue_button_background.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_warning_sigh.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\warning_sigh.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_alert_dialog.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_success_circle.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\success_circle.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-sw800dp-v13_alert_dialog.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\layout-sw800dp-v13\\alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_error_center_x.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\error_center_x.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_success_bow_roate.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\anim\\success_bow_roate.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_error_circle.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\error_circle.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_warning_icon.png.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\warning_icon.png"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_red_button_background.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\red_button_background.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_success_mask_layout.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\anim\\success_mask_layout.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_cancel_icon.png.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\cancel_icon.png"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_success_bow.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\success_bow.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_error_frame_in.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\anim\\error_frame_in.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_gray_button_background.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\gray_button_background.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_modal_out.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_modal_in.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_error_x_in.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\anim\\error_x_in.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_rounded_border_button_blue.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\rounded_border_button_blue.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_sucess_circle.png.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\sucess_circle.png"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-sw600dp-port-v13_alert_dialog.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\layout-sw600dp-port-v13\\alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-sw600dp-v13_alert_dialog.xml.flat",
+        "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\layout-sw600dp-v13\\alert_dialog.xml"
+    }
+]

@@ -1,0 +1,125 @@
+[
+    {
+        "outputFile": "D:\\SVN Projects\\GoldenTours - Konnect\\Konnect\\SweetAlertDialogLib\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 34,
+                    "endOffset": 85
+                },
+                "from": {
+                    "file": "D:\\SVN Projects\\GoldenTours - Konnect\\Konnect\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 34,
+                        "endOffset": 85
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 90,
+                    "endColumn": 43,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "D:\\SVN Projects\\GoldenTours - Konnect\\Konnect\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 43,
+                        "endOffset": 129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 134,
+                    "endColumn": 49,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "D:\\SVN Projects\\GoldenTours - Konnect\\Konnect\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 134,
+                        "endColumn": 49,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 53,
+                    "endOffset": 233
+                },
+                "from": {
+                    "file": "D:\\SVN Projects\\GoldenTours - Konnect\\Konnect\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 53,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 238,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 805
+                },
+                "from": {
+                    "file": "D:\\SVN Projects\\GoldenTours - Konnect\\Konnect\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 810,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1420
+                },
+                "from": {
+                    "file": "D:\\SVN Projects\\GoldenTours - Konnect\\Konnect\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 810,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1420
+                    }
+                }
+            }
+        ]
+    }
+]

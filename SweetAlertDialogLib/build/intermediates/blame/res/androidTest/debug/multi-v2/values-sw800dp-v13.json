@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sw800dp-v13\\values-sw800dp-v13.xml",
+            "map": [
+                {
+                    "source": "E:\\Demo\\StarWars\\SweetAlertDialogLib\\build\\intermediates\\bundles\\debug\\res\\values-sw800dp-v13\\values-sw800dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,90,134,184,238,810",
+                        "endLines": "2,3,4,5,15,26",
+                        "endColumns": "34,43,49,53,12,12",
+                        "endOffsets": "85,129,179,233,805,1420"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Star Wars</string>
+    <string name="character_list">Character List</string>
+    <string name="character_detail_list">Character Detail List</string>
+    <string name="name">Name:</string>
+    <string name="gender">Gender:</string>
+    <string name="height">Height:</string>
+    <string name="weight">Weight:</string>
+    <string name="date_create">Create Date:</string>
+    <string name="load_more">Get more result</string>
+    <string name="loading_projects">Loading projects ...</string>
+    <string name="error_message">Error!</string>
+    <string name="connection_fail">Connection Error!</string>
+    <string name="check_internet_connection">Please check your internet connection</string>
+    <string name="try_again">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="server_problem">Failed to connect to server.Try again later.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
